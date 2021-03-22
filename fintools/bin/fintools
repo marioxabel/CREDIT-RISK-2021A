@@ -1,0 +1,7 @@
+#!/usr/bin/env python
+
+import fire
+
+from fintools.main import Main
+
+fire.Fire(Main)
