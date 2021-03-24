@@ -3,13 +3,11 @@ import time
 from threading import Thread
 from typing import Generic, TypeVar, Callable
 
+from fintools.utils import compose
+
+
 A = TypeVar('A')
 B = TypeVar('B')
-
-
-def compose(this: Callable[..., A], and_then: Callable[[A], B]) -> Callable[..., B]:
-    return lambda *x: and_then(this(*x))
-
 
 results_registry = {}
 
