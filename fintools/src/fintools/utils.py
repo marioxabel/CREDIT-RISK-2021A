@@ -1,3 +1,4 @@
+import datetime
 import functools
 import time
 from typing import Generic, TypeVar, Callable
@@ -20,3 +21,7 @@ def timeit(logger):
             return output
         return wrapper
     return decorator
+
+
+def get_current_utctime() -> str:
+    return datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
