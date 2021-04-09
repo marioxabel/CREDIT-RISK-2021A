@@ -80,7 +80,7 @@ assert abs(agent_a.money - agent_b.money) == 2*trading_amount
 Use the `timeseries` command as a guideline to implement the `histogram` command:
 
 ```commandline
-$ python -m wealth_distribution histogram  --key 2f1d6bd3-112f-4c3a-85cc-06d5e2a4dcce --save
+$ python -m wealth_distribution histogram  --key 2f1d6bd3-112f-4c3a-85cc-06d5e2a4dcce --show
 ```
 
 ## (3 pts) Update the `simulate` command so that you can add a custom trading amount.
