@@ -75,10 +75,18 @@ assert abs(agent_a.money - agent_b.money) == 2*trading_amount
 
 * The winning agent should be chosen randomly.
 
+## (1 pts) Implement the histogram command
+
+Use the `timeseries` command as a guideline to implement the `histogram` command:
+
+```commandline
+$ python -m wealth_distribution histogram  --key 2f1d6bd3-112f-4c3a-85cc-06d5e2a4dcce --save
+```
+
 ## (3 pts) Update the `simulate` command so that you can add a custom trading amount.
 
 Add the following argument: `--trading-amount`
 
 ```commandline
-$ python -m wealth-distribution simulate --population 500 --epochs 10000 --trading-amount 10
+$ python -m wealth_distribution simulate --population 500 --epochs 10000 --trading-amount 10
 ```
