@@ -1,0 +1,3146 @@
+{
+    "population": 500,
+    "initial_amount": 1000,
+    "trading_sample": 0.5,
+    "sessions_per_epoch": 100,
+    "disable_epoch_history": false,
+    "include_sessions": true,
+    "agents": [
+        {
+            "agent_id": "3a2a862e-e6e5-4602-881b-6d299885ddc5",
+            "money": 1026
+        },
+        {
+            "agent_id": "59183706-17b5-42f8-aa85-2e040d8c1de9",
+            "money": 1043
+        },
+        {
+            "agent_id": "7c2f99b8-8296-4d3c-9dc4-67022246c9c3",
+            "money": 1058
+        },
+        {
+            "agent_id": "01c71f71-3d4e-4d5c-878c-24a1571ded30",
+            "money": 963
+        },
+        {
+            "agent_id": "702581c2-1e36-4df1-bda5-822c8d9a7e1c",
+            "money": 1022
+        },
+        {
+            "agent_id": "ad6dc561-39ec-4e07-8fa7-5551d608d109",
+            "money": 1069
+        },
+        {
+            "agent_id": "07154b5a-221e-4fbf-b80f-aa5b0ca6e914",
+            "money": 971
+        },
+        {
+            "agent_id": "6954bfab-94db-4afd-bee5-78ad99bc1b6b",
+            "money": 1056
+        },
+        {
+            "agent_id": "dde305ba-f4e8-4106-817e-17b5b3a1d84a",
+            "money": 878
+        },
+        {
+            "agent_id": "0c2b6927-bb76-4084-9a96-4822d90c84d6",
+            "money": 933
+        },
+        {
+            "agent_id": "c67e3e85-e347-46c9-898d-bc203cec17fb",
+            "money": 1006
+        },
+        {
+            "agent_id": "da688e7d-c039-4cc5-aa29-7c0eb77c1803",
+            "money": 970
+        },
+        {
+            "agent_id": "cb372664-abb6-43ca-b3ea-05ff5498dea9",
+            "money": 1149
+        },
+        {
+            "agent_id": "80cbf704-a2cd-4b7e-ba50-aec7b2c9e8ab",
+            "money": 1117
+        },
+        {
+            "agent_id": "36a1720b-f1b2-448e-8e6b-d95d2b1a5001",
+            "money": 912
+        },
+        {
+            "agent_id": "0768845e-44a5-4bc1-a7f0-6cf353e8aec2",
+            "money": 880
+        },
+        {
+            "agent_id": "a0f1345e-c4e3-4729-8248-c98a15b1633c",
+            "money": 1002
+        },
+        {
+            "agent_id": "4b2900bc-8d7f-4991-aecc-4c71cb9d7956",
+            "money": 977
+        },
+        {
+            "agent_id": "a4aef141-ab75-4ca7-ac8c-a8d66e527d6d",
+            "money": 1071
+        },
+        {
+            "agent_id": "4fdeda24-d934-4e73-b3b0-beea627e4ba2",
+            "money": 787
+        },
+        {
+            "agent_id": "5987d219-6c62-4399-a8ef-7402fb1f7450",
+            "money": 1153
+        },
+        {
+            "agent_id": "db557efe-3dd0-46d7-a5f9-2a188d459767",
+            "money": 968
+        },
+        {
+            "agent_id": "46553aa2-55ab-42dd-a1a3-13b85aef3a2e",
+            "money": 942
+        },
+        {
+            "agent_id": "35353555-961b-488c-8fb7-4233227c00b1",
+            "money": 1111
+        },
+        {
+            "agent_id": "3dcc6ab1-5c31-4625-ae3a-2289f8084507",
+            "money": 1099
+        },
+        {
+            "agent_id": "d607813d-4018-40d2-8ca4-3d3b88eb95fe",
+            "money": 1057
+        },
+        {
+            "agent_id": "7db8a403-20ce-43d5-8ddd-553137dbf7bc",
+            "money": 883
+        },
+        {
+            "agent_id": "bad0c342-6a85-46ee-8aad-8e72c3eac7ee",
+            "money": 998
+        },
+        {
+            "agent_id": "40959c8b-f7ba-4bc2-adc1-e443510ba482",
+            "money": 923
+        },
+        {
+            "agent_id": "1352ffa6-bcef-4756-8986-7ef5d84a4e87",
+            "money": 1056
+        },
+        {
+            "agent_id": "79ae64e0-70eb-4a0a-a4a2-648bbf6554ce",
+            "money": 943
+        },
+        {
+            "agent_id": "d0e0570d-f111-4ff4-b62a-f1f0cd7a822c",
+            "money": 984
+        },
+        {
+            "agent_id": "d8ac0451-27be-4c1e-b107-92ac6ae8c1e2",
+            "money": 1022
+        },
+        {
+            "agent_id": "c3137863-befb-435c-a680-764b8d0d34c8",
+            "money": 874
+        },
+        {
+            "agent_id": "b76d71f3-e82e-473c-92a1-8f7124d00e28",
+            "money": 947
+        },
+        {
+            "agent_id": "9babdc85-c9eb-4aba-85e1-5f79f816ef9b",
+            "money": 1151
+        },
+        {
+            "agent_id": "4041c90b-5eac-404f-afbc-15aad73de77c",
+            "money": 969
+        },
+        {
+            "agent_id": "d7b93b78-b347-4e8f-9fe1-68d16fbccf40",
+            "money": 936
+        },
+        {
+            "agent_id": "94c8bb8c-45d7-44e3-9ec1-16ee2171fc24",
+            "money": 1209
+        },
+        {
+            "agent_id": "48dc2348-0996-4c94-b09d-5777c5f9097b",
+            "money": 1031
+        },
+        {
+            "agent_id": "f49a5222-23d0-463c-bd6d-ff064ba5a315",
+            "money": 1002
+        },
+        {
+            "agent_id": "3fc174b7-2081-4bec-8540-cdc15c054a02",
+            "money": 976
+        },
+        {
+            "agent_id": "91b2edc9-aef5-4cfd-8d22-e3cbf310f457",
+            "money": 1012
+        },
+        {
+            "agent_id": "f081a83c-65e7-41df-8daa-04088c19241d",
+            "money": 999
+        },
+        {
+            "agent_id": "8e898faa-3a20-4e31-b46d-37bbe638ff70",
+            "money": 991
+        },
+        {
+            "agent_id": "24568fe2-2aa2-4c91-a8d5-b20816e957bc",
+            "money": 933
+        },
+        {
+            "agent_id": "74b68412-94f1-4d3a-8e49-bb0f2b30558a",
+            "money": 1069
+        },
+        {
+            "agent_id": "43af5dc9-60d7-469c-89f6-c8b3b2ad94e6",
+            "money": 1020
+        },
+        {
+            "agent_id": "654ec159-4757-4df3-9ea0-11c90952ecf4",
+            "money": 1055
+        },
+        {
+            "agent_id": "06d1e4b0-4fa4-43ae-ba8e-b0419ce62271",
+            "money": 1200
+        },
+        {
+            "agent_id": "913ff412-227d-4dfb-85bd-a5aed38b7f3f",
+            "money": 913
+        },
+        {
+            "agent_id": "ac3e05bb-ca4d-4d79-8bd5-495eb1ffac35",
+            "money": 931
+        },
+        {
+            "agent_id": "9fc80296-52a6-4e15-8ed6-426c1281df61",
+            "money": 954
+        },
+        {
+            "agent_id": "49bc7541-a368-49e0-a48c-4679253384f8",
+            "money": 961
+        },
+        {
+            "agent_id": "f1274500-97ed-4549-bf15-6bebfb44b26d",
+            "money": 1160
+        },
+        {
+            "agent_id": "1c2fc4aa-478e-46df-88f8-522c17814759",
+            "money": 792
+        },
+        {
+            "agent_id": "58eaab80-b4f4-41ee-80f6-9bb2343b6bc8",
+            "money": 1092
+        },
+        {
+            "agent_id": "b47c9807-bc99-4eff-89a2-d920d8032888",
+            "money": 977
+        },
+        {
+            "agent_id": "e1733406-ccab-46fb-b5b3-09984816ac47",
+            "money": 912
+        },
+        {
+            "agent_id": "0de33715-3f41-4067-9eb2-b85d3c3e2148",
+            "money": 896
+        },
+        {
+            "agent_id": "021c6025-c4ae-4386-a432-4ecff5fa9308",
+            "money": 1018
+        },
+        {
+            "agent_id": "b1c83bf5-ad53-42a1-a613-2e84339d6f4a",
+            "money": 978
+        },
+        {
+            "agent_id": "29edc754-7052-4162-ab05-7e05225ea122",
+            "money": 788
+        },
+        {
+            "agent_id": "18ce8dab-a7f4-4d58-85b9-aa8743317ec0",
+            "money": 1026
+        },
+        {
+            "agent_id": "fa0a1b6e-03ec-44b8-8fd8-ee7be4f4e7f4",
+            "money": 1195
+        },
+        {
+            "agent_id": "dc4dc7e1-12a5-4941-a1fc-1dbc926b029a",
+            "money": 1143
+        },
+        {
+            "agent_id": "7a9ed157-cd1d-4009-be1d-00358277c33d",
+            "money": 987
+        },
+        {
+            "agent_id": "785be479-25e3-4915-97d9-3e6761b2e33a",
+            "money": 1063
+        },
+        {
+            "agent_id": "5184501b-8d02-4620-9a6b-59e83a1d2604",
+            "money": 1038
+        },
+        {
+            "agent_id": "b4be4240-315b-4fea-8fc6-5d70bb40cf8d",
+            "money": 925
+        },
+        {
+            "agent_id": "c59d99d0-85c0-4f4f-a8b7-36346fd6ce5a",
+            "money": 1138
+        },
+        {
+            "agent_id": "424b862a-c08b-46ab-b20c-9f29b3057a2c",
+            "money": 921
+        },
+        {
+            "agent_id": "03589b0e-96e3-4401-ba6b-76b61763f4c6",
+            "money": 924
+        },
+        {
+            "agent_id": "2539ba02-369e-43bc-bdb2-cc9347b4ca53",
+            "money": 1002
+        },
+        {
+            "agent_id": "e8e9db9a-2219-4888-93f1-88167e4a5ff4",
+            "money": 989
+        },
+        {
+            "agent_id": "c10a1921-5407-43f9-b5b6-d8cc71965543",
+            "money": 975
+        },
+        {
+            "agent_id": "9c520561-88fa-4f61-953f-937a92a100a9",
+            "money": 961
+        },
+        {
+            "agent_id": "e7035c54-27ad-4273-8fc9-b403b92da68f",
+            "money": 852
+        },
+        {
+            "agent_id": "bfa26579-1002-4b3c-8bc3-6bef0c82f62c",
+            "money": 1040
+        },
+        {
+            "agent_id": "7af31122-0bbd-417a-9fb1-fceca5c82438",
+            "money": 1153
+        },
+        {
+            "agent_id": "d42b1701-2954-4e0a-990a-19c63dcf61ba",
+            "money": 1133
+        },
+        {
+            "agent_id": "45b9c869-10e8-43a2-a672-8e783ffddf27",
+            "money": 1043
+        },
+        {
+            "agent_id": "0c97b0e3-b1a9-4fe7-a324-763a988c242b",
+            "money": 1248
+        },
+        {
+            "agent_id": "c0d19910-2889-42bc-a8bf-b5009517ea15",
+            "money": 918
+        },
+        {
+            "agent_id": "e6283f5d-c948-4719-a08c-04d962afe917",
+            "money": 1035
+        },
+        {
+            "agent_id": "e6c54ba8-dde1-4627-9f81-c681ca9a7ddc",
+            "money": 1075
+        },
+        {
+            "agent_id": "fa9ac5ce-2c41-41f5-9811-facdafb1283f",
+            "money": 934
+        },
+        {
+            "agent_id": "a7a013eb-6a81-443c-81b3-2a7c7a17a96b",
+            "money": 933
+        },
+        {
+            "agent_id": "621c4ab1-0be0-4c7a-8447-7dd04f0ee69c",
+            "money": 1096
+        },
+        {
+            "agent_id": "139a849b-e83e-4c41-845d-8858be8aeb5f",
+            "money": 1154
+        },
+        {
+            "agent_id": "a2d055a9-41dc-48ef-a3f3-d8c2d0525cb9",
+            "money": 1037
+        },
+        {
+            "agent_id": "c7a6b1f8-c226-4821-90e5-06ea250850eb",
+            "money": 953
+        },
+        {
+            "agent_id": "f9a55885-57fe-4e4c-8fbe-6ca52a12cd42",
+            "money": 910
+        },
+        {
+            "agent_id": "2364bed6-23dd-4e25-be54-48cd8af25e5b",
+            "money": 1041
+        },
+        {
+            "agent_id": "23cbf34b-8a3f-4ff3-b847-ae4ed9dc57fe",
+            "money": 1079
+        },
+        {
+            "agent_id": "97190d60-3249-4250-81d3-cf503f6c4fca",
+            "money": 981
+        },
+        {
+            "agent_id": "a73e457a-3105-4592-bc34-f006a62c9d85",
+            "money": 1102
+        },
+        {
+            "agent_id": "d04c4a16-66ab-4d65-8d67-a00a88587443",
+            "money": 1011
+        },
+        {
+            "agent_id": "ae6d23a5-f14d-44c3-bd53-6b172f7442b6",
+            "money": 1053
+        },
+        {
+            "agent_id": "aeb71ca8-e450-448f-bbc1-530a8f6d2672",
+            "money": 880
+        },
+        {
+            "agent_id": "3d5ebda9-ed3a-4b89-812f-00aa2eccec45",
+            "money": 970
+        },
+        {
+            "agent_id": "ee7f9142-97a0-4b6a-b2e5-6ff65ce6b6c2",
+            "money": 969
+        },
+        {
+            "agent_id": "18cf31db-57aa-4140-b504-56b13bb4e130",
+            "money": 1006
+        },
+        {
+            "agent_id": "81e67c35-13ee-400d-aa29-6abaed6131a5",
+            "money": 968
+        },
+        {
+            "agent_id": "a092c80c-71a2-406a-b375-427734b50fed",
+            "money": 1091
+        },
+        {
+            "agent_id": "ec6bfe75-5e9b-4195-bbb6-5ed1692a9516",
+            "money": 975
+        },
+        {
+            "agent_id": "15256dc7-53a2-4930-a605-edda1f84ae83",
+            "money": 1133
+        },
+        {
+            "agent_id": "db42fe36-6ff6-4d89-847d-470dd1d7a54e",
+            "money": 1127
+        },
+        {
+            "agent_id": "35babda9-e29f-427e-ae7b-6c8a4b0a31af",
+            "money": 982
+        },
+        {
+            "agent_id": "74d50d63-3087-444f-9ab2-1ab749359346",
+            "money": 1249
+        },
+        {
+            "agent_id": "b1ca2ec1-98e7-4675-bfce-5544cb722ee6",
+            "money": 983
+        },
+        {
+            "agent_id": "55dbfbbf-c037-4b79-96fc-1f7a1c77791f",
+            "money": 1043
+        },
+        {
+            "agent_id": "36876cba-cdd9-4031-be37-98bb25de7135",
+            "money": 930
+        },
+        {
+            "agent_id": "21bed632-ae29-463e-a08d-d58bbba16c53",
+            "money": 991
+        },
+        {
+            "agent_id": "a0157814-28f3-4196-8072-280bb1dabe84",
+            "money": 1096
+        },
+        {
+            "agent_id": "288c51cf-a2d2-481a-8de3-25a46b73b063",
+            "money": 993
+        },
+        {
+            "agent_id": "04662202-4146-47b3-8153-e76c2a6fdf0a",
+            "money": 819
+        },
+        {
+            "agent_id": "05803c8c-d3ae-4d17-9bbd-62785fabaacb",
+            "money": 915
+        },
+        {
+            "agent_id": "493e04f8-b02f-462d-95e0-0ace1609a217",
+            "money": 1073
+        },
+        {
+            "agent_id": "93e3ad23-923d-448a-bdc9-0d5ea4f65f80",
+            "money": 1082
+        },
+        {
+            "agent_id": "88c4fc11-1f6a-4626-b874-527fd6c9e129",
+            "money": 876
+        },
+        {
+            "agent_id": "94f296e3-172d-4419-8781-1ee8ca4e2f4e",
+            "money": 939
+        },
+        {
+            "agent_id": "ec33a093-9e01-48e2-9e31-e5d3f1ae6e92",
+            "money": 1152
+        },
+        {
+            "agent_id": "1aaa6d92-2144-4b5e-a3ad-d0e9d121c503",
+            "money": 1036
+        },
+        {
+            "agent_id": "c820f341-6763-44c1-b932-f1f330851061",
+            "money": 995
+        },
+        {
+            "agent_id": "e8e7d8cc-4f04-4ecb-8613-869e71b7c022",
+            "money": 872
+        },
+        {
+            "agent_id": "15ebba9f-2f32-47cd-8c96-d419870b2e6a",
+            "money": 985
+        },
+        {
+            "agent_id": "3d0e3a7f-1861-4cec-a01d-804b96003f1e",
+            "money": 1065
+        },
+        {
+            "agent_id": "db7c0e55-180a-4a36-9d1d-471d15e4236c",
+            "money": 828
+        },
+        {
+            "agent_id": "fd0a1d3f-837c-4be4-a2d9-d16183d83e33",
+            "money": 1084
+        },
+        {
+            "agent_id": "c4a43292-8753-4b22-a04d-9d02debf7aa8",
+            "money": 750
+        },
+        {
+            "agent_id": "c2f425db-d4fc-4537-bcd3-af934b6c78ce",
+            "money": 903
+        },
+        {
+            "agent_id": "fb0b0542-319d-4ad7-a563-69c19afc2375",
+            "money": 766
+        },
+        {
+            "agent_id": "32ce0238-a2a2-4ee5-af7b-4de4feaab76a",
+            "money": 1172
+        },
+        {
+            "agent_id": "eb8fb370-d6be-46c2-8ec2-ebee9501a9ae",
+            "money": 1084
+        },
+        {
+            "agent_id": "41b38143-cb84-4330-b55a-a19c8b4935ad",
+            "money": 1178
+        },
+        {
+            "agent_id": "52c7b5d3-1e89-4fb7-8dd6-37b98e895c3d",
+            "money": 1070
+        },
+        {
+            "agent_id": "97df5902-4827-4a57-a1c1-48c03829d3f8",
+            "money": 1067
+        },
+        {
+            "agent_id": "7629af4c-5041-4150-9e49-7901e47c7e8f",
+            "money": 988
+        },
+        {
+            "agent_id": "71983ab8-3478-45f3-b41e-afc49e7b8792",
+            "money": 1113
+        },
+        {
+            "agent_id": "8a1c7a0e-3a46-4fff-b70f-8adcdfec6d38",
+            "money": 909
+        },
+        {
+            "agent_id": "0215347b-9d99-47c1-b587-7177745252f3",
+            "money": 938
+        },
+        {
+            "agent_id": "60bb77fc-5de3-41c8-a955-f5aadc3f46a7",
+            "money": 969
+        },
+        {
+            "agent_id": "166dd786-1427-4730-9a86-bb6239119238",
+            "money": 939
+        },
+        {
+            "agent_id": "f41c9e32-2a0b-49b0-a294-0e8287632317",
+            "money": 988
+        },
+        {
+            "agent_id": "001974b4-84b6-4c70-b04a-d2febeb65d6a",
+            "money": 1022
+        },
+        {
+            "agent_id": "ef911636-9326-4e6d-9d37-a2f9e179c84c",
+            "money": 1071
+        },
+        {
+            "agent_id": "f9ba26bc-6094-4ed5-8a4f-69c405edafa7",
+            "money": 909
+        },
+        {
+            "agent_id": "630e3f22-50be-43d8-830a-d6890f2da12f",
+            "money": 1022
+        },
+        {
+            "agent_id": "d515c865-89da-4c05-914d-340299443236",
+            "money": 1107
+        },
+        {
+            "agent_id": "71a6aa60-5d64-4282-868e-7bbf3892d623",
+            "money": 1146
+        },
+        {
+            "agent_id": "907e354f-ae6c-4129-bd6d-301d0a52a843",
+            "money": 973
+        },
+        {
+            "agent_id": "36befdc6-2cfc-45e0-a180-ba40ce054517",
+            "money": 782
+        },
+        {
+            "agent_id": "e7be58a2-cb4c-4e2f-81c3-efab602df3bf",
+            "money": 1099
+        },
+        {
+            "agent_id": "ae82a5b7-f259-4f54-ad04-05ddc038b0db",
+            "money": 1101
+        },
+        {
+            "agent_id": "e5ac6315-adf5-41dd-837a-7acc32f79296",
+            "money": 1077
+        },
+        {
+            "agent_id": "4c155977-471b-42c3-a371-ae783db18049",
+            "money": 782
+        },
+        {
+            "agent_id": "eb29a8d6-dff7-4d4e-b648-adeccbab0e79",
+            "money": 1097
+        },
+        {
+            "agent_id": "366a1d40-d7e6-4c12-a781-1ed077feb7bc",
+            "money": 961
+        },
+        {
+            "agent_id": "a254f5e6-6be3-42d3-9848-2c099d426706",
+            "money": 1038
+        },
+        {
+            "agent_id": "2b21e16e-67c1-4752-883b-957bb7e39f98",
+            "money": 952
+        },
+        {
+            "agent_id": "2a628336-f189-491c-b91f-7371445e625a",
+            "money": 983
+        },
+        {
+            "agent_id": "5cfc29bc-f296-4eb6-93aa-f733761e008a",
+            "money": 930
+        },
+        {
+            "agent_id": "fb17710b-796c-469b-a61f-36ff7007bd3f",
+            "money": 1056
+        },
+        {
+            "agent_id": "bc570b4c-93a0-4a16-875e-cdf15b097fe1",
+            "money": 910
+        },
+        {
+            "agent_id": "1768e619-c43e-4876-bc51-70dbe8d99f1e",
+            "money": 986
+        },
+        {
+            "agent_id": "7c496878-6042-4bc2-9ab2-0cbf3f2675d2",
+            "money": 887
+        },
+        {
+            "agent_id": "2382f32e-056c-42a4-9e55-d51d1bc6bcdf",
+            "money": 1022
+        },
+        {
+            "agent_id": "2e2f06be-0061-4d14-a173-92d1155b2479",
+            "money": 844
+        },
+        {
+            "agent_id": "5d5db1b2-2e80-44a6-b772-5fa17b23829e",
+            "money": 984
+        },
+        {
+            "agent_id": "c95aa8d4-7ccb-427e-b0ca-b4e75e117bb4",
+            "money": 1085
+        },
+        {
+            "agent_id": "4068baf2-c4aa-42ef-a771-ea75ce09bd8a",
+            "money": 942
+        },
+        {
+            "agent_id": "c5d504c2-3285-4da3-a64d-50ed13deff55",
+            "money": 975
+        },
+        {
+            "agent_id": "03ab025b-9b88-4dde-a17e-2f44bdeec780",
+            "money": 864
+        },
+        {
+            "agent_id": "6edcf900-0e37-405d-b2c6-f915127dd750",
+            "money": 954
+        },
+        {
+            "agent_id": "f81fb527-5a9a-49ef-a04c-45f21a7378a8",
+            "money": 846
+        },
+        {
+            "agent_id": "ccfbcf09-a11f-426f-b1d5-c2edbda0b378",
+            "money": 1026
+        },
+        {
+            "agent_id": "d0eb20e3-637a-463a-b390-fab7f1eaab53",
+            "money": 804
+        },
+        {
+            "agent_id": "e77d5187-0a83-40f0-b987-3770597cf80e",
+            "money": 936
+        },
+        {
+            "agent_id": "03111aea-e87c-4450-b6c9-2d31806c3e47",
+            "money": 1001
+        },
+        {
+            "agent_id": "74bb3865-1d87-4ab6-ab68-315a1d0ccfb0",
+            "money": 854
+        },
+        {
+            "agent_id": "1d1333a1-f7c7-4b9b-89b1-7d1f7f810cc9",
+            "money": 901
+        },
+        {
+            "agent_id": "f60ad704-9a7a-489d-a1f9-1a7f01610bc8",
+            "money": 871
+        },
+        {
+            "agent_id": "0d020c8c-d4be-41c0-b385-3598b464de3d",
+            "money": 1124
+        },
+        {
+            "agent_id": "49670e37-b8a1-4900-bd8a-845d45529d95",
+            "money": 1049
+        },
+        {
+            "agent_id": "201d64e9-c7e3-4276-8370-109aae454a50",
+            "money": 963
+        },
+        {
+            "agent_id": "33af623c-a015-44a5-a029-861cbbf48d1d",
+            "money": 1026
+        },
+        {
+            "agent_id": "fffbe38c-4b5f-41ae-a5a0-196cdfa7cc11",
+            "money": 1034
+        },
+        {
+            "agent_id": "333693b8-fb43-4839-af15-358a09fcb035",
+            "money": 1127
+        },
+        {
+            "agent_id": "d143ea59-e97b-45f6-8eb5-0b8d546e9a0b",
+            "money": 1090
+        },
+        {
+            "agent_id": "97631a81-fae7-41a3-bfcc-6ad2dc1b1b03",
+            "money": 827
+        },
+        {
+            "agent_id": "6f500b14-69fe-47e7-866b-0b226b3fdb70",
+            "money": 900
+        },
+        {
+            "agent_id": "63660e81-3467-49c3-a939-e1a683671e51",
+            "money": 1123
+        },
+        {
+            "agent_id": "0ac8df20-967a-4be2-a0f9-6ace9a7c29c1",
+            "money": 1076
+        },
+        {
+            "agent_id": "6f6a2900-ed01-496f-9f9b-24ef5f21bd1b",
+            "money": 875
+        },
+        {
+            "agent_id": "a09ad6af-aae0-4d3b-a4e7-8eb5646d78c6",
+            "money": 1031
+        },
+        {
+            "agent_id": "d7978f4b-a13c-4833-a7d1-4fd3caf26cea",
+            "money": 888
+        },
+        {
+            "agent_id": "9673c3d2-eb13-4c5e-9f42-ff3342536210",
+            "money": 895
+        },
+        {
+            "agent_id": "38e16c15-9daf-4b19-8759-1fff065dafd3",
+            "money": 841
+        },
+        {
+            "agent_id": "c14cfb8c-dae2-48a3-ba31-7895e3e9949a",
+            "money": 948
+        },
+        {
+            "agent_id": "6799fc3c-9bb2-42f3-8fe0-8882a223460d",
+            "money": 853
+        },
+        {
+            "agent_id": "7b27b0d8-9f17-4e69-b82b-7d7934a2f076",
+            "money": 859
+        },
+        {
+            "agent_id": "51fb755f-9740-4813-95d1-fe2c1b573f8e",
+            "money": 995
+        },
+        {
+            "agent_id": "9f1ef3b2-8761-4d53-9834-9f66841cfa84",
+            "money": 961
+        },
+        {
+            "agent_id": "51358f76-264d-4451-b50d-d97c37916ccd",
+            "money": 1136
+        },
+        {
+            "agent_id": "512a23e5-a299-4430-8bf0-b7ce5ff7975b",
+            "money": 1103
+        },
+        {
+            "agent_id": "ea2f007d-8d93-45e2-9bbb-ed95a70c6c9e",
+            "money": 882
+        },
+        {
+            "agent_id": "44ed9ca7-1d61-4553-88fc-386a6594d1b7",
+            "money": 975
+        },
+        {
+            "agent_id": "61b29bc1-ff92-43ca-9358-a9d34cff95b9",
+            "money": 1124
+        },
+        {
+            "agent_id": "2b141576-84bf-4620-8ba1-551e5fca6f9f",
+            "money": 1003
+        },
+        {
+            "agent_id": "4a8c2ca6-cb43-4465-9e24-4692475ccb6b",
+            "money": 1019
+        },
+        {
+            "agent_id": "373cb279-1710-4194-9f78-795679d0f643",
+            "money": 889
+        },
+        {
+            "agent_id": "0c2bce16-fe63-413b-ba44-588becfce416",
+            "money": 956
+        },
+        {
+            "agent_id": "c690486b-5374-4356-b0c0-3a93aabfa26d",
+            "money": 1141
+        },
+        {
+            "agent_id": "bbd7a180-3eda-4f27-b2b4-7bf6e3dc37a7",
+            "money": 1041
+        },
+        {
+            "agent_id": "73ea7d4f-710f-4087-9a5d-bb74ff09c5db",
+            "money": 1045
+        },
+        {
+            "agent_id": "0611497d-60c7-44f5-b7b6-1f53daf779b8",
+            "money": 983
+        },
+        {
+            "agent_id": "4896a4f1-542c-46e7-889a-e562d920d5f1",
+            "money": 1078
+        },
+        {
+            "agent_id": "4aea9b37-716b-4e20-8870-b68f558af9f7",
+            "money": 1134
+        },
+        {
+            "agent_id": "004eed38-3827-4f47-b87e-9de880994590",
+            "money": 1014
+        },
+        {
+            "agent_id": "2f431613-4652-4ab7-9956-5d0c3a7bdc24",
+            "money": 910
+        },
+        {
+            "agent_id": "7d43aabb-0951-452c-b222-5b7917b732f6",
+            "money": 1050
+        },
+        {
+            "agent_id": "79af61c8-7771-4cfa-8a8d-a3f9c4fcf611",
+            "money": 870
+        },
+        {
+            "agent_id": "48d72c16-f033-4a56-9d47-d5dec776cbf8",
+            "money": 1016
+        },
+        {
+            "agent_id": "f0ff27cc-71ee-4e7d-9628-094e9835ba06",
+            "money": 789
+        },
+        {
+            "agent_id": "f6ba49bf-8244-44a2-9be0-f2e7cb340e4c",
+            "money": 942
+        },
+        {
+            "agent_id": "7d9f8d7d-0580-4209-9fd5-9f5ee836ffcf",
+            "money": 1174
+        },
+        {
+            "agent_id": "e5e8a4e6-7262-47b5-9507-bb897882b5de",
+            "money": 816
+        },
+        {
+            "agent_id": "f23218a0-37c2-4525-8bec-8d27bde4b817",
+            "money": 922
+        },
+        {
+            "agent_id": "70a2a1cc-cdef-4f64-b669-2f3e74e4f6db",
+            "money": 1212
+        },
+        {
+            "agent_id": "8d1a3a13-67ff-487a-a6d0-0df74d195e7c",
+            "money": 975
+        },
+        {
+            "agent_id": "29508c13-52e6-4507-a88d-9430dc196106",
+            "money": 1021
+        },
+        {
+            "agent_id": "187d94bf-2541-4a66-b3e1-a9f342a0ecd1",
+            "money": 852
+        },
+        {
+            "agent_id": "501c342c-f68d-4516-afff-01498342db85",
+            "money": 901
+        },
+        {
+            "agent_id": "d48d9da3-162c-443e-9511-cb1d7d1cbd97",
+            "money": 990
+        },
+        {
+            "agent_id": "8c7f5158-6bcf-43c1-b202-fa0a016c4137",
+            "money": 1128
+        },
+        {
+            "agent_id": "83b1a757-cb81-4681-b060-1a4b49569bef",
+            "money": 1117
+        },
+        {
+            "agent_id": "5e82b84b-0083-4765-b1a2-43eac7283c9c",
+            "money": 1097
+        },
+        {
+            "agent_id": "c5368b90-ba0c-4240-beea-b08ee7aacb66",
+            "money": 886
+        },
+        {
+            "agent_id": "b727cdbd-f9c0-45e1-850f-0f4833ec163a",
+            "money": 850
+        },
+        {
+            "agent_id": "34efd4d2-9491-4b83-85e7-597d404e7ee7",
+            "money": 1087
+        },
+        {
+            "agent_id": "190f724a-6447-440f-b942-0a30659eda07",
+            "money": 935
+        },
+        {
+            "agent_id": "1bb56f47-dc64-48f6-b4c4-ea26cfcefb8a",
+            "money": 1017
+        },
+        {
+            "agent_id": "d9409490-d85a-426b-9b9a-cccc4568bb77",
+            "money": 1035
+        },
+        {
+            "agent_id": "501bd95d-1395-4e30-99ea-089952777911",
+            "money": 918
+        },
+        {
+            "agent_id": "6659bb7e-f6b8-4821-bda9-67192bb222cf",
+            "money": 983
+        },
+        {
+            "agent_id": "fda246aa-53b2-4aed-8459-5d955d4bc3bb",
+            "money": 1015
+        },
+        {
+            "agent_id": "8619e9a1-993e-4b3e-bc15-f0a40be4f099",
+            "money": 945
+        },
+        {
+            "agent_id": "1c18fa64-f6ec-451c-8a02-f856b166e6c9",
+            "money": 1171
+        },
+        {
+            "agent_id": "7138859c-4b45-49f6-81c1-9d4e916df0fd",
+            "money": 998
+        },
+        {
+            "agent_id": "7df497d7-d892-49b4-a5ce-96bbe1630563",
+            "money": 859
+        },
+        {
+            "agent_id": "a2a5f42e-7966-41ec-ba71-284e73416a80",
+            "money": 1086
+        },
+        {
+            "agent_id": "6be1a1db-3ba9-4c3a-ba00-0a2464934ca9",
+            "money": 1053
+        },
+        {
+            "agent_id": "9ddb8c79-e4df-45a5-bb29-542dbce36895",
+            "money": 741
+        },
+        {
+            "agent_id": "35cf9588-0caf-425e-b0eb-8a8e5709c05f",
+            "money": 968
+        },
+        {
+            "agent_id": "0a294f74-e335-4001-8612-c453b2e14086",
+            "money": 914
+        },
+        {
+            "agent_id": "3588c35b-fe67-4f56-bc95-8c70c572d413",
+            "money": 1047
+        },
+        {
+            "agent_id": "41d85045-1ff9-4197-aa90-c342205ba9a3",
+            "money": 1057
+        },
+        {
+            "agent_id": "da2ae473-6f9e-41e3-93f7-a67513f9f622",
+            "money": 937
+        },
+        {
+            "agent_id": "3a86ba4d-172f-498a-ace9-5fd4c2435097",
+            "money": 1154
+        },
+        {
+            "agent_id": "10a11cb7-662a-4c5d-a2e1-b58f4c8fba8f",
+            "money": 962
+        },
+        {
+            "agent_id": "eeb5e8d8-e116-4c4b-b213-c7e1f27afec7",
+            "money": 1020
+        },
+        {
+            "agent_id": "fc67d7b3-aaa7-49fa-836a-f2e042a2dd15",
+            "money": 942
+        },
+        {
+            "agent_id": "545da5ce-fe14-4449-952a-e749b7b26c99",
+            "money": 1087
+        },
+        {
+            "agent_id": "ebc77445-3292-4800-ab64-0d4fd14754eb",
+            "money": 1011
+        },
+        {
+            "agent_id": "7841ed02-2211-457f-8914-22e0ee814141",
+            "money": 996
+        },
+        {
+            "agent_id": "446ac8f7-f270-4d64-924e-49f5afa5718b",
+            "money": 1201
+        },
+        {
+            "agent_id": "452919e4-5024-45d2-bf7c-69ffedc01d14",
+            "money": 1008
+        },
+        {
+            "agent_id": "4c6260a4-b51f-42a2-86a9-683c2ca90cc1",
+            "money": 1012
+        },
+        {
+            "agent_id": "742f413d-db42-40ef-b7e0-91faea3c3531",
+            "money": 998
+        },
+        {
+            "agent_id": "45ec26cb-00f8-4658-8258-60e259b4b730",
+            "money": 1011
+        },
+        {
+            "agent_id": "b2fa786e-e417-45b7-b372-748be8fd2725",
+            "money": 877
+        },
+        {
+            "agent_id": "4603b68f-3f1f-4896-9095-d8b12b2f0160",
+            "money": 1106
+        },
+        {
+            "agent_id": "744f8ede-8555-4e3a-b076-bdd1f8c35623",
+            "money": 991
+        },
+        {
+            "agent_id": "4eac3a4d-601f-4c8f-8ce4-6ee8ba9398e8",
+            "money": 944
+        },
+        {
+            "agent_id": "51effdf3-3106-4049-ac95-9af806b13c36",
+            "money": 975
+        },
+        {
+            "agent_id": "416c32e9-ff97-4488-9b01-73a7b0c8dcf7",
+            "money": 1050
+        },
+        {
+            "agent_id": "a8a225ad-213e-4319-a912-3b61c5447fa2",
+            "money": 954
+        },
+        {
+            "agent_id": "d55ccfda-7d69-419d-abf5-18b11f301cce",
+            "money": 999
+        },
+        {
+            "agent_id": "cbe594e1-4110-451c-b8eb-175aebfd9ef2",
+            "money": 888
+        },
+        {
+            "agent_id": "8ee83dcf-ba3f-4862-a4ee-2200c5c7c23b",
+            "money": 1120
+        },
+        {
+            "agent_id": "b18e3a00-923b-4237-8324-cec7e182b348",
+            "money": 976
+        },
+        {
+            "agent_id": "479348c1-8d4d-4b5e-bfa2-2ccfce94c563",
+            "money": 1088
+        },
+        {
+            "agent_id": "5b66d17e-4b6c-4faa-bcc9-e4ee79b918bd",
+            "money": 974
+        },
+        {
+            "agent_id": "f75833ea-67c5-400c-9348-849d9ee90222",
+            "money": 908
+        },
+        {
+            "agent_id": "6c5c0418-d67c-41e3-968b-42feddf6926c",
+            "money": 1046
+        },
+        {
+            "agent_id": "33c49716-2893-464e-8cb2-cc33ddcd706c",
+            "money": 900
+        },
+        {
+            "agent_id": "d859ac21-c92f-45eb-9b6a-f72bbb47a6ad",
+            "money": 1089
+        },
+        {
+            "agent_id": "3b3cc3f7-376c-4816-8b0b-327deabd7b7c",
+            "money": 989
+        },
+        {
+            "agent_id": "811ad9da-35cd-4f61-bfaa-0eb7064c7d56",
+            "money": 939
+        },
+        {
+            "agent_id": "4adcbdd3-59a7-480c-8dd9-8063b48e270f",
+            "money": 1145
+        },
+        {
+            "agent_id": "226ed3cb-43aa-412a-b659-5b2ffcf1159b",
+            "money": 1182
+        },
+        {
+            "agent_id": "247ef298-d1e9-4cfa-8273-7c12c664ad74",
+            "money": 1037
+        },
+        {
+            "agent_id": "109b9aee-c5cf-44b9-bf36-4a5ad8ccf9de",
+            "money": 711
+        },
+        {
+            "agent_id": "37135276-91ab-426c-81ae-8fe5879af1c3",
+            "money": 1026
+        },
+        {
+            "agent_id": "e2f3b91b-ff78-4263-92ad-ae4ad46f545c",
+            "money": 1182
+        },
+        {
+            "agent_id": "f14760b2-40f7-4135-b79d-a857b962b993",
+            "money": 964
+        },
+        {
+            "agent_id": "75388d69-85b5-4e9b-a128-4c88d9d9dcda",
+            "money": 1092
+        },
+        {
+            "agent_id": "5ade371a-6ba5-4854-9350-d3c815121d91",
+            "money": 1041
+        },
+        {
+            "agent_id": "53fb07f5-56ae-4202-aaf1-bbe22b8134c0",
+            "money": 1103
+        },
+        {
+            "agent_id": "ffcfb12e-6486-4545-b00d-ba50d9f30f1e",
+            "money": 958
+        },
+        {
+            "agent_id": "95ceb6e6-fc40-47f6-9601-82f8962cc867",
+            "money": 746
+        },
+        {
+            "agent_id": "54e2fbfb-ee0e-43f8-b147-146176e46f58",
+            "money": 1136
+        },
+        {
+            "agent_id": "06a411f7-9d21-48a2-a04f-e14c00f906a1",
+            "money": 963
+        },
+        {
+            "agent_id": "3f368fba-7de4-4022-afab-113d07b386e8",
+            "money": 926
+        },
+        {
+            "agent_id": "3de23fba-2d05-49e2-8885-f36fa375ba24",
+            "money": 1139
+        },
+        {
+            "agent_id": "9f16d1f4-ffff-4432-bb67-d03de0e2e77b",
+            "money": 911
+        },
+        {
+            "agent_id": "29f95be1-e0bb-4e15-86bd-ba2c96a25ae7",
+            "money": 945
+        },
+        {
+            "agent_id": "ebc3f7bd-d88a-4e45-a60f-008f54cbaf88",
+            "money": 1120
+        },
+        {
+            "agent_id": "627146c1-3ebc-49d6-8e9c-44f87d1d2f6e",
+            "money": 881
+        },
+        {
+            "agent_id": "c1414acd-97a8-421a-b63a-62035f976c13",
+            "money": 978
+        },
+        {
+            "agent_id": "396a4599-51f8-4a3e-8a6b-6edd9e90ed65",
+            "money": 1030
+        },
+        {
+            "agent_id": "7156fd62-3030-410a-9052-f2b0ea965d46",
+            "money": 1142
+        },
+        {
+            "agent_id": "93f8ac7c-c10a-4378-8135-dfe739cfa4b4",
+            "money": 1242
+        },
+        {
+            "agent_id": "b6dc16e1-2709-4b70-b512-754795dab23e",
+            "money": 968
+        },
+        {
+            "agent_id": "c96d6b60-a327-4a81-aac5-b0b8bd9e8a8d",
+            "money": 1178
+        },
+        {
+            "agent_id": "636b3b5e-1c35-43d1-9d92-a8ba67048696",
+            "money": 1034
+        },
+        {
+            "agent_id": "4f27de11-e24c-44c6-a18c-396541ab5d50",
+            "money": 859
+        },
+        {
+            "agent_id": "e3da0bc5-c5f9-414c-9c3c-42daf68f1a4e",
+            "money": 818
+        },
+        {
+            "agent_id": "c067e7d8-e1b4-429f-9c81-3268c3bde771",
+            "money": 838
+        },
+        {
+            "agent_id": "0e408f1d-f1ad-46b7-a00b-4461483b7917",
+            "money": 969
+        },
+        {
+            "agent_id": "e3992f18-fb14-44bd-8b87-3ce4502dc795",
+            "money": 1068
+        },
+        {
+            "agent_id": "48d42569-e9c4-484b-9477-30dc463f1129",
+            "money": 1082
+        },
+        {
+            "agent_id": "0f9969fe-e82a-4e9d-b31a-439f88d1c9bd",
+            "money": 1084
+        },
+        {
+            "agent_id": "e420d87a-b70b-41e3-b78b-e328950890f4",
+            "money": 1086
+        },
+        {
+            "agent_id": "a1e5fc8d-053b-4500-bdd1-7bead7a57e2d",
+            "money": 937
+        },
+        {
+            "agent_id": "a1dec19b-c50e-411b-8809-a65864bd4787",
+            "money": 1094
+        },
+        {
+            "agent_id": "6f8eecc1-042e-4a30-9263-8f2c32af9e14",
+            "money": 1145
+        },
+        {
+            "agent_id": "94fae258-e3ff-4a36-8b83-a8a1fc1ee2d1",
+            "money": 1046
+        },
+        {
+            "agent_id": "e11edcc0-9500-40d7-ae3a-32384bcf4dc0",
+            "money": 1037
+        },
+        {
+            "agent_id": "9ad49e1f-6456-4804-8a2a-1d66f397c0af",
+            "money": 897
+        },
+        {
+            "agent_id": "5699ac6e-a619-4e14-897b-787075e753d3",
+            "money": 1029
+        },
+        {
+            "agent_id": "ca50aa5d-e284-4f62-9b86-670942ec31fc",
+            "money": 1236
+        },
+        {
+            "agent_id": "8f2d579e-f017-4b25-ae13-7497014ba8bb",
+            "money": 1006
+        },
+        {
+            "agent_id": "304edae0-2ee3-474e-8d85-36433b6e2a22",
+            "money": 1039
+        },
+        {
+            "agent_id": "dc544a54-f822-4e8e-b1e5-9104c6ab2ec6",
+            "money": 1053
+        },
+        {
+            "agent_id": "915da59c-6937-47c5-8fb5-ba9666137be1",
+            "money": 1080
+        },
+        {
+            "agent_id": "5b539aed-2461-4886-ba1e-b352f48167be",
+            "money": 886
+        },
+        {
+            "agent_id": "57d9b662-c422-4e88-bef4-c239300613af",
+            "money": 1072
+        },
+        {
+            "agent_id": "56f530b8-0fb6-4934-9fd7-311f8d1807eb",
+            "money": 1165
+        },
+        {
+            "agent_id": "3360ce97-ec5e-4f7a-ad5b-d5d9bfa6c27d",
+            "money": 989
+        },
+        {
+            "agent_id": "3bbff99e-8213-4aae-878d-dac59f16ea1b",
+            "money": 1063
+        },
+        {
+            "agent_id": "2837b4ee-75d1-43a4-a0b4-a77b5660bfc1",
+            "money": 946
+        },
+        {
+            "agent_id": "15e8efb3-e94e-4765-9931-01fa572c3cbe",
+            "money": 904
+        },
+        {
+            "agent_id": "72530c83-71df-4c20-be80-b93c58970f04",
+            "money": 1098
+        },
+        {
+            "agent_id": "712ee0a3-a8d8-497f-bd36-81ce22d58106",
+            "money": 1035
+        },
+        {
+            "agent_id": "b814ab74-3cc9-4cc0-b5b5-10a92fb67dfc",
+            "money": 943
+        },
+        {
+            "agent_id": "830f5995-ba60-4ad1-acab-02ebfe2cf164",
+            "money": 901
+        },
+        {
+            "agent_id": "cc8fc059-97f6-4b8f-aa6b-0fb9dfe81af5",
+            "money": 1036
+        },
+        {
+            "agent_id": "9c85257a-466d-4ad4-ab7c-ffd8e6107062",
+            "money": 970
+        },
+        {
+            "agent_id": "1f04598c-0b87-4c34-8fc0-c3c948f5d7c8",
+            "money": 920
+        },
+        {
+            "agent_id": "e14b0f9b-8d47-49d8-9706-3a4d79357247",
+            "money": 1130
+        },
+        {
+            "agent_id": "d3cc85de-3100-4173-8c33-353967de16df",
+            "money": 896
+        },
+        {
+            "agent_id": "2fd6b915-d5fc-4674-a0a5-016b71e2cd34",
+            "money": 1081
+        },
+        {
+            "agent_id": "1e5ce7ad-c568-4493-9bbb-36f66567e3d0",
+            "money": 1243
+        },
+        {
+            "agent_id": "42a23d04-84aa-43c6-b25c-869a341a73d6",
+            "money": 1065
+        },
+        {
+            "agent_id": "fa046c1e-e9cb-4482-a8ab-f4ebade90a00",
+            "money": 886
+        },
+        {
+            "agent_id": "aba2f891-c0da-4290-a4e8-0e7f46951a84",
+            "money": 1102
+        },
+        {
+            "agent_id": "4cca9b70-318a-4f72-9599-dfdcdd02786f",
+            "money": 822
+        },
+        {
+            "agent_id": "bd9c74f7-8afc-47d4-8121-ade4e83076a5",
+            "money": 1091
+        },
+        {
+            "agent_id": "d62e4087-3e4e-4cfc-9d6f-f88ae2c3c2af",
+            "money": 1117
+        },
+        {
+            "agent_id": "828aeebc-46ff-4ceb-b0da-0c1931ecaef6",
+            "money": 949
+        },
+        {
+            "agent_id": "600ee07d-2089-4bb7-b3a9-6203853dac80",
+            "money": 684
+        },
+        {
+            "agent_id": "6bd07846-d953-42c6-832d-127fdc7cbd5e",
+            "money": 1040
+        },
+        {
+            "agent_id": "8305bce6-37fc-4657-ad33-6039c1289198",
+            "money": 839
+        },
+        {
+            "agent_id": "b257736a-0786-426b-8057-698853fa0ec2",
+            "money": 833
+        },
+        {
+            "agent_id": "2313975d-e709-48e3-9b31-be4bc72f7e7a",
+            "money": 1025
+        },
+        {
+            "agent_id": "9c8ac660-6536-463e-85d5-769ee6549e99",
+            "money": 1182
+        },
+        {
+            "agent_id": "583fa1a8-5cee-4729-aa9d-b372a5e0b195",
+            "money": 1149
+        },
+        {
+            "agent_id": "9d05f517-e4b8-404e-b89a-2e985b6b91f8",
+            "money": 989
+        },
+        {
+            "agent_id": "b64bdf1c-652b-435d-abe9-e43ea3eca30e",
+            "money": 1218
+        },
+        {
+            "agent_id": "75a3f671-a7a4-44fe-b56e-c2156cefa43c",
+            "money": 1158
+        },
+        {
+            "agent_id": "1a389e0b-42cf-4455-a99c-b0f8d75567be",
+            "money": 826
+        },
+        {
+            "agent_id": "1fb3499c-04bc-46a5-876b-3d6a8635ecc2",
+            "money": 1054
+        },
+        {
+            "agent_id": "3be136b0-cc36-4263-afd4-0e321d52739e",
+            "money": 954
+        },
+        {
+            "agent_id": "4540a619-0499-40b8-9bb6-5f64606eb7d7",
+            "money": 1089
+        },
+        {
+            "agent_id": "5e289a4b-18f9-4427-9bc5-795ef7e5823f",
+            "money": 1074
+        },
+        {
+            "agent_id": "095cd713-e429-436e-94c7-667d5b660e34",
+            "money": 923
+        },
+        {
+            "agent_id": "76dc0a9c-72ac-4067-867d-e8fab588e8cb",
+            "money": 881
+        },
+        {
+            "agent_id": "a04e90c5-2c79-4c20-8b06-b8f9b523a24b",
+            "money": 929
+        },
+        {
+            "agent_id": "b88b9f83-8ae3-49dd-9877-ed97fc419185",
+            "money": 932
+        },
+        {
+            "agent_id": "3ec80d30-cd35-4291-97f7-5ff8b55ab69c",
+            "money": 988
+        },
+        {
+            "agent_id": "2498f508-3a6d-4e81-bc8c-7cc03579abc5",
+            "money": 1064
+        },
+        {
+            "agent_id": "4e136fbb-f70c-455f-9974-c72877d382b5",
+            "money": 903
+        },
+        {
+            "agent_id": "e192f384-6b3b-4276-b2fd-95d162bb845a",
+            "money": 1117
+        },
+        {
+            "agent_id": "ef223d9d-6893-4746-bbf3-f79475aa9c55",
+            "money": 885
+        },
+        {
+            "agent_id": "52187369-1cce-40af-a5eb-a14f2dc045f0",
+            "money": 876
+        },
+        {
+            "agent_id": "c8a153f0-50da-4743-8a10-a216dccbcccf",
+            "money": 860
+        },
+        {
+            "agent_id": "3e4cb8ca-2d2f-4f22-8c24-888b90d9df1b",
+            "money": 988
+        },
+        {
+            "agent_id": "3237d771-3640-4b12-8534-288b77f68494",
+            "money": 1018
+        },
+        {
+            "agent_id": "1022259a-5c36-49b1-bdf4-bfe7ba195d47",
+            "money": 991
+        },
+        {
+            "agent_id": "f0119a2f-6c19-40a8-8cca-d053ea395a6b",
+            "money": 927
+        },
+        {
+            "agent_id": "33f1c41a-f470-431a-9c00-6733b2aec4bc",
+            "money": 1106
+        },
+        {
+            "agent_id": "be467cb1-3c16-4553-abee-98ec348eb483",
+            "money": 752
+        },
+        {
+            "agent_id": "7017717a-9f9b-4dc1-8d43-3d01a4464c1d",
+            "money": 1096
+        },
+        {
+            "agent_id": "55f21d05-2fca-4931-83fb-b26e194c5597",
+            "money": 1096
+        },
+        {
+            "agent_id": "71166175-edd9-467f-bafd-2aa96205fd68",
+            "money": 608
+        },
+        {
+            "agent_id": "4d9a09b1-63ee-4746-ab5d-5e6ce8b4fe1f",
+            "money": 1025
+        },
+        {
+            "agent_id": "21d51e43-94dc-46a7-9aa3-7027e078f389",
+            "money": 908
+        },
+        {
+            "agent_id": "d004a70a-189e-4f59-904f-bc71fee29f48",
+            "money": 997
+        },
+        {
+            "agent_id": "663b565f-1f10-4891-aa3f-eb7d4eb22069",
+            "money": 998
+        },
+        {
+            "agent_id": "8b9a540d-5cb6-44a2-893b-1c7d521e8801",
+            "money": 1073
+        },
+        {
+            "agent_id": "0ba104a0-b5a7-4d72-84ad-d8afc5add623",
+            "money": 1002
+        },
+        {
+            "agent_id": "b5f84ee5-25ce-4d11-91d1-8b6511607393",
+            "money": 1153
+        },
+        {
+            "agent_id": "4eb86175-7f56-4b39-b285-1e7f5674e8d6",
+            "money": 997
+        },
+        {
+            "agent_id": "7192b28b-0df3-4181-ad1a-9e98f9ebe301",
+            "money": 1124
+        },
+        {
+            "agent_id": "3b62dc4d-9112-4c4d-a0f0-27a0ad3cfd82",
+            "money": 903
+        },
+        {
+            "agent_id": "fa8808c3-650e-4865-91ac-56d8137ea259",
+            "money": 767
+        },
+        {
+            "agent_id": "2d1bd1cb-73d1-4f82-821c-f29bf26bc209",
+            "money": 828
+        },
+        {
+            "agent_id": "7b63a70b-b34f-4ec4-b476-e327deeb26c6",
+            "money": 1137
+        },
+        {
+            "agent_id": "969c060b-7d66-43cb-912d-5c2dedd4bcf4",
+            "money": 959
+        },
+        {
+            "agent_id": "a0e25f62-7ab9-444e-a1ca-cae2f50cb095",
+            "money": 909
+        },
+        {
+            "agent_id": "ee10259f-e260-4e8b-863b-e35dab2ca65c",
+            "money": 1059
+        },
+        {
+            "agent_id": "cff88b6c-338d-466f-b4bb-9b3fb44b9829",
+            "money": 796
+        },
+        {
+            "agent_id": "6ceb274b-72ec-44ab-8f66-554ece57cedc",
+            "money": 980
+        },
+        {
+            "agent_id": "87ce4d31-375a-437f-9eee-ef680fe928c0",
+            "money": 1113
+        },
+        {
+            "agent_id": "069e9db7-f5c5-4b63-a1c6-a767351af6b2",
+            "money": 1122
+        },
+        {
+            "agent_id": "437c0124-b543-44ed-a18b-7dd7d4da5139",
+            "money": 1110
+        },
+        {
+            "agent_id": "164acdac-4f6d-4162-87ae-f1c8dc6533cf",
+            "money": 874
+        },
+        {
+            "agent_id": "15691a2f-d714-4dfd-b912-fb7960b12120",
+            "money": 804
+        },
+        {
+            "agent_id": "2043186b-cc7f-4000-8ced-3ffcf19881be",
+            "money": 1084
+        },
+        {
+            "agent_id": "0dad17ad-9add-4fde-9bd3-980a436c58e4",
+            "money": 758
+        },
+        {
+            "agent_id": "aa25b43b-b7c4-49b0-b09f-94f017c859f4",
+            "money": 1108
+        },
+        {
+            "agent_id": "45033212-6d9a-4dc2-bf5c-b21fd8c6c697",
+            "money": 856
+        },
+        {
+            "agent_id": "38a96bfe-57f9-482f-913f-0574fb0c9c1a",
+            "money": 1033
+        },
+        {
+            "agent_id": "f13eff38-c447-4ff4-ad61-f595bc9e31c7",
+            "money": 853
+        },
+        {
+            "agent_id": "106032b1-c365-4fee-85dd-d98095726d11",
+            "money": 898
+        },
+        {
+            "agent_id": "05a825d4-18d6-47b0-80a1-181a591ce969",
+            "money": 972
+        },
+        {
+            "agent_id": "a41da5dc-78c1-435b-bbe9-d77aab436fe2",
+            "money": 1192
+        },
+        {
+            "agent_id": "33a62179-b888-4cf8-94c8-5aa9c452a873",
+            "money": 1190
+        },
+        {
+            "agent_id": "90a7f5be-92f2-453f-95c6-6404a7176e49",
+            "money": 1055
+        },
+        {
+            "agent_id": "e3d7d155-1a71-4144-99d2-b3e69e3f524e",
+            "money": 1040
+        },
+        {
+            "agent_id": "079f78b2-de87-4396-a193-3fd419f7fdc2",
+            "money": 1333
+        },
+        {
+            "agent_id": "e9015c95-ca7b-4e8e-bb1c-0394d1ea1f4a",
+            "money": 1112
+        },
+        {
+            "agent_id": "7f9e72b8-1820-44b4-8e52-3d217b9e0686",
+            "money": 897
+        },
+        {
+            "agent_id": "dd6f286a-fa3e-4fd3-aa5e-00217b899b74",
+            "money": 1162
+        },
+        {
+            "agent_id": "7ae33ec1-b9b9-48a3-99a2-9d75d28ad815",
+            "money": 1210
+        },
+        {
+            "agent_id": "cbb44fe7-eff0-4bd2-995e-7c48d40cf393",
+            "money": 1044
+        },
+        {
+            "agent_id": "7f930e2f-3605-427d-90a6-32c0148e1e57",
+            "money": 990
+        },
+        {
+            "agent_id": "9324aa12-3b0b-4ac4-98a6-fe5679994bdd",
+            "money": 1099
+        },
+        {
+            "agent_id": "9cb97d65-e2e3-4a27-a142-a8ed7490f87f",
+            "money": 872
+        },
+        {
+            "agent_id": "33133ab6-4981-4d08-bb45-52f792748180",
+            "money": 985
+        },
+        {
+            "agent_id": "640cd2d9-cf61-4e5e-af5e-5bedc6259629",
+            "money": 932
+        },
+        {
+            "agent_id": "92982304-de32-4790-a205-b5d79720949e",
+            "money": 1127
+        },
+        {
+            "agent_id": "14636d2a-bc79-40c7-ad93-7e4026b2362f",
+            "money": 911
+        },
+        {
+            "agent_id": "04f2cb54-24ec-4e44-89d5-f545a30964fa",
+            "money": 1049
+        },
+        {
+            "agent_id": "8d6913a1-7117-458e-b089-acfca7f60ee9",
+            "money": 950
+        },
+        {
+            "agent_id": "3e366403-255c-4be0-9de9-0337320e25bb",
+            "money": 1126
+        },
+        {
+            "agent_id": "21303f3e-2500-4776-99ed-fbc8c990268f",
+            "money": 1059
+        },
+        {
+            "agent_id": "4cfd4d0f-e471-4069-9aed-a67e89100506",
+            "money": 1106
+        },
+        {
+            "agent_id": "7026b681-cbe7-4253-b82d-d7046ce21d79",
+            "money": 1025
+        },
+        {
+            "agent_id": "c67a2047-20c1-461d-9ba8-e9ce07b52db7",
+            "money": 1074
+        },
+        {
+            "agent_id": "ca891155-9f39-476e-8950-eb4cf800d878",
+            "money": 1120
+        },
+        {
+            "agent_id": "5b082a53-f380-404c-abed-39a7e85f5425",
+            "money": 1161
+        },
+        {
+            "agent_id": "02c1ee4f-fb76-4561-a9a7-9cb5f177d5a8",
+            "money": 895
+        },
+        {
+            "agent_id": "4ca705eb-b79e-450e-80cc-38c9084b8ec5",
+            "money": 1002
+        },
+        {
+            "agent_id": "635ddb2d-ef24-4267-b6c0-b38cb46fa6c8",
+            "money": 896
+        },
+        {
+            "agent_id": "a6a6feee-c321-4ed5-8603-d2eadfa81dfa",
+            "money": 989
+        },
+        {
+            "agent_id": "70e0e23e-0b2b-4a70-b0f9-ee36adfe4907",
+            "money": 1053
+        },
+        {
+            "agent_id": "474fd010-74df-4ef6-94ab-7f60e003d1d6",
+            "money": 902
+        },
+        {
+            "agent_id": "211f2c5f-5d1e-41f2-bfc5-be67511dc3ce",
+            "money": 983
+        },
+        {
+            "agent_id": "c16897b6-eb18-4087-a054-1597535488ae",
+            "money": 1120
+        },
+        {
+            "agent_id": "07ce31de-7b7c-420d-9862-c21e77be2458",
+            "money": 1187
+        },
+        {
+            "agent_id": "d330030a-dfc3-4568-a1d3-27549a7691bb",
+            "money": 1035
+        },
+        {
+            "agent_id": "a3dbed64-8154-40f3-a9b4-c72d8072f893",
+            "money": 1196
+        },
+        {
+            "agent_id": "0802d5f5-5547-46cc-9582-eab518a9ca13",
+            "money": 1037
+        },
+        {
+            "agent_id": "34dc3283-4a26-4620-b50c-c0add1cf159f",
+            "money": 956
+        },
+        {
+            "agent_id": "9c27b366-118f-4ef4-a517-f8a35abfe501",
+            "money": 902
+        },
+        {
+            "agent_id": "ff896ad0-2bcb-4883-ba8b-963310253dd6",
+            "money": 1291
+        },
+        {
+            "agent_id": "b4d83e2a-616c-48ce-9b57-4081ee642890",
+            "money": 1107
+        },
+        {
+            "agent_id": "fb097ede-606f-481f-bafb-56bbf1d5551a",
+            "money": 914
+        },
+        {
+            "agent_id": "c293b0c3-ffd6-4bd0-92dd-7ec9ca0317a1",
+            "money": 1008
+        },
+        {
+            "agent_id": "09f17f36-a939-4e12-9cab-8c3ee267eec9",
+            "money": 954
+        },
+        {
+            "agent_id": "2cacd46d-58fc-4a91-a39b-a3229db4dd3b",
+            "money": 903
+        },
+        {
+            "agent_id": "eb4b226d-f452-4e51-9dcf-7b56c4705876",
+            "money": 837
+        },
+        {
+            "agent_id": "952456f5-1a72-4140-afcb-9aec06cd2882",
+            "money": 948
+        },
+        {
+            "agent_id": "d4158b82-ef41-4ad5-821c-d64ba5965d59",
+            "money": 944
+        },
+        {
+            "agent_id": "ff2fd157-df63-431e-88b3-203ddac7c335",
+            "money": 887
+        },
+        {
+            "agent_id": "f71a332d-1d00-48c8-93aa-f9145f947e92",
+            "money": 906
+        },
+        {
+            "agent_id": "c8393600-6200-4c1d-a8c1-422dd3ff370f",
+            "money": 1091
+        },
+        {
+            "agent_id": "993fe6bd-eb2e-47af-aaed-3cdb6344af9a",
+            "money": 813
+        },
+        {
+            "agent_id": "42579e04-b933-40e2-a83a-067bbce60f03",
+            "money": 924
+        },
+        {
+            "agent_id": "7112d5e4-b8ff-4eb3-91ea-b0a891664135",
+            "money": 1005
+        },
+        {
+            "agent_id": "b900612b-fd5f-4891-8e37-a0153ac902a0",
+            "money": 1022
+        },
+        {
+            "agent_id": "d1bd7ea9-1745-4c88-b2af-e99c86449368",
+            "money": 990
+        },
+        {
+            "agent_id": "c415cd63-9c38-4181-bf80-73488b5ee93c",
+            "money": 1015
+        },
+        {
+            "agent_id": "3100de5e-4790-446a-a711-d709e3a5b728",
+            "money": 952
+        },
+        {
+            "agent_id": "c8898943-ab64-4912-80e1-bde9487070df",
+            "money": 1045
+        },
+        {
+            "agent_id": "7357a3dc-6be7-4172-a0ed-6c3e33cbcb90",
+            "money": 997
+        },
+        {
+            "agent_id": "5d672adc-8968-4755-895b-482f5c46ccdc",
+            "money": 813
+        },
+        {
+            "agent_id": "c9bb2b49-277a-45db-aa2f-faa9535dd1e2",
+            "money": 1016
+        },
+        {
+            "agent_id": "11a47903-b134-497c-856e-bc5e7247627c",
+            "money": 919
+        },
+        {
+            "agent_id": "7c53880b-09fb-432a-b959-67d69595794f",
+            "money": 928
+        },
+        {
+            "agent_id": "89f05047-1a0e-49e6-ba8a-b7e920dc0f09",
+            "money": 1098
+        },
+        {
+            "agent_id": "2a72148a-6e92-4ae2-aa85-8420b511a6de",
+            "money": 820
+        },
+        {
+            "agent_id": "ac9d22d8-0939-4755-88d8-ad1e8f565369",
+            "money": 1037
+        },
+        {
+            "agent_id": "31b1dfa4-bd46-4f0a-8a79-22491e79a258",
+            "money": 999
+        },
+        {
+            "agent_id": "3477a645-e3fb-43d9-9bb3-07b1e46421f3",
+            "money": 972
+        },
+        {
+            "agent_id": "76e953cf-bec2-463c-bd44-30f5f116084b",
+            "money": 978
+        },
+        {
+            "agent_id": "3df05ba1-578d-4c80-9ee9-1d3d9c56c48d",
+            "money": 1055
+        }
+    ],
+    "history": [
+        {
+            "source": "epoch",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 0.0,
+            "min": 1000.0,
+            "25%": 1000.0,
+            "50%": 1000.0,
+            "75%": 1000.0,
+            "max": 1000.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 0.0,
+            "min": 1000.0,
+            "25%": 1000.0,
+            "50%": 1000.0,
+            "75%": 1000.0,
+            "max": 1000.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 11.566138123946317,
+            "min": 955.0,
+            "25%": 999.0,
+            "50%": 1000.0,
+            "75%": 1000.0,
+            "max": 1051.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 16.1334614126761,
+            "min": 938.0,
+            "25%": 993.0,
+            "50%": 1000.0,
+            "75%": 1007.0,
+            "max": 1074.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 20.120578404973884,
+            "min": 938.0,
+            "25%": 988.75,
+            "50%": 1000.0,
+            "75%": 1011.0,
+            "max": 1079.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 23.214862905462933,
+            "min": 927.0,
+            "25%": 986.0,
+            "50%": 1000.0,
+            "75%": 1014.0,
+            "max": 1082.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 25.87312964593481,
+            "min": 923.0,
+            "25%": 985.0,
+            "50%": 1000.0,
+            "75%": 1016.0,
+            "max": 1097.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 27.654684289035963,
+            "min": 923.0,
+            "25%": 982.5,
+            "50%": 1001.0,
+            "75%": 1018.0,
+            "max": 1105.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 30.076389051159605,
+            "min": 907.0,
+            "25%": 980.75,
+            "50%": 1000.0,
+            "75%": 1021.0,
+            "max": 1102.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 32.16465653882412,
+            "min": 907.0,
+            "25%": 978.0,
+            "50%": 1000.0,
+            "75%": 1022.25,
+            "max": 1102.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 33.61219360765132,
+            "min": 903.0,
+            "25%": 979.0,
+            "50%": 999.0,
+            "75%": 1023.0,
+            "max": 1105.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 34.462956791046864,
+            "min": 903.0,
+            "25%": 980.0,
+            "50%": 999.0,
+            "75%": 1022.0,
+            "max": 1094.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 36.237471057142415,
+            "min": 896.0,
+            "25%": 977.0,
+            "50%": 999.0,
+            "75%": 1024.0,
+            "max": 1121.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 38.36644325365425,
+            "min": 895.0,
+            "25%": 977.0,
+            "50%": 997.0,
+            "75%": 1024.0,
+            "max": 1107.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 40.33964022083356,
+            "min": 888.0,
+            "25%": 975.0,
+            "50%": 998.0,
+            "75%": 1026.25,
+            "max": 1107.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 42.15402618787078,
+            "min": 870.0,
+            "25%": 973.0,
+            "50%": 998.0,
+            "75%": 1027.0,
+            "max": 1107.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 43.84043758832559,
+            "min": 870.0,
+            "25%": 971.0,
+            "50%": 998.0,
+            "75%": 1029.0,
+            "max": 1140.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 44.190605554104785,
+            "min": 881.0,
+            "25%": 969.0,
+            "50%": 998.0,
+            "75%": 1030.0,
+            "max": 1145.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 44.87935285434997,
+            "min": 881.0,
+            "25%": 970.0,
+            "50%": 998.0,
+            "75%": 1030.0,
+            "max": 1145.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 46.115303777433475,
+            "min": 881.0,
+            "25%": 968.75,
+            "50%": 1000.0,
+            "75%": 1030.25,
+            "max": 1172.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 46.797949700733525,
+            "min": 866.0,
+            "25%": 968.75,
+            "50%": 1000.0,
+            "75%": 1031.0,
+            "max": 1172.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 47.77191970839408,
+            "min": 863.0,
+            "25%": 968.0,
+            "50%": 1001.0,
+            "75%": 1030.0,
+            "max": 1172.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 48.90844581607852,
+            "min": 852.0,
+            "25%": 967.0,
+            "50%": 1001.0,
+            "75%": 1032.25,
+            "max": 1172.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 49.98023657503226,
+            "min": 852.0,
+            "25%": 968.0,
+            "50%": 999.0,
+            "75%": 1034.25,
+            "max": 1172.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 50.90499619167601,
+            "min": 845.0,
+            "25%": 968.75,
+            "50%": 999.5,
+            "75%": 1035.0,
+            "max": 1141.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 52.44892543760185,
+            "min": 830.0,
+            "25%": 968.0,
+            "50%": 999.0,
+            "75%": 1038.0,
+            "max": 1141.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 53.01052944901541,
+            "min": 830.0,
+            "25%": 967.0,
+            "50%": 999.0,
+            "75%": 1036.0,
+            "max": 1154.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 54.18453587376855,
+            "min": 819.0,
+            "25%": 965.0,
+            "50%": 999.0,
+            "75%": 1037.25,
+            "max": 1163.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 55.84806184662139,
+            "min": 819.0,
+            "25%": 965.0,
+            "50%": 999.0,
+            "75%": 1037.0,
+            "max": 1173.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 57.130164636756,
+            "min": 819.0,
+            "25%": 963.75,
+            "50%": 999.0,
+            "75%": 1038.25,
+            "max": 1163.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 58.32532629462736,
+            "min": 819.0,
+            "25%": 963.75,
+            "50%": 998.0,
+            "75%": 1041.25,
+            "max": 1163.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 59.63885970719384,
+            "min": 816.0,
+            "25%": 961.75,
+            "50%": 999.0,
+            "75%": 1042.25,
+            "max": 1161.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 61.53070823671888,
+            "min": 820.0,
+            "25%": 963.0,
+            "50%": 999.5,
+            "75%": 1042.0,
+            "max": 1161.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 62.984840877474014,
+            "min": 823.0,
+            "25%": 960.0,
+            "50%": 999.5,
+            "75%": 1043.0,
+            "max": 1186.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 63.440060549822384,
+            "min": 823.0,
+            "25%": 958.75,
+            "50%": 1000.0,
+            "75%": 1042.0,
+            "max": 1186.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 65.19396064828413,
+            "min": 823.0,
+            "25%": 956.0,
+            "50%": 1000.5,
+            "75%": 1043.0,
+            "max": 1203.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 65.08280527978317,
+            "min": 828.0,
+            "25%": 955.0,
+            "50%": 999.0,
+            "75%": 1042.0,
+            "max": 1203.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 64.82370110113197,
+            "min": 824.0,
+            "25%": 956.0,
+            "50%": 999.0,
+            "75%": 1043.5,
+            "max": 1186.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 65.78409453802931,
+            "min": 817.0,
+            "25%": 955.0,
+            "50%": 998.0,
+            "75%": 1043.25,
+            "max": 1186.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 66.30934971570329,
+            "min": 796.0,
+            "25%": 955.75,
+            "50%": 999.0,
+            "75%": 1041.0,
+            "max": 1203.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 66.89144137974394,
+            "min": 797.0,
+            "25%": 954.0,
+            "50%": 1000.5,
+            "75%": 1040.25,
+            "max": 1203.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 67.83237030298915,
+            "min": 797.0,
+            "25%": 955.0,
+            "50%": 1001.0,
+            "75%": 1044.25,
+            "max": 1218.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 68.28749786549115,
+            "min": 797.0,
+            "25%": 954.0,
+            "50%": 1001.0,
+            "75%": 1044.25,
+            "max": 1199.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 69.38412147332595,
+            "min": 797.0,
+            "25%": 952.75,
+            "50%": 1000.0,
+            "75%": 1044.0,
+            "max": 1194.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 69.69075694241248,
+            "min": 790.0,
+            "25%": 954.0,
+            "50%": 999.0,
+            "75%": 1045.25,
+            "max": 1195.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 70.80332068795137,
+            "min": 807.0,
+            "25%": 952.75,
+            "50%": 998.0,
+            "75%": 1045.25,
+            "max": 1196.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 71.28193479737286,
+            "min": 807.0,
+            "25%": 954.0,
+            "50%": 1000.5,
+            "75%": 1046.0,
+            "max": 1207.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 71.94180458184925,
+            "min": 807.0,
+            "25%": 953.75,
+            "50%": 1000.5,
+            "75%": 1048.0,
+            "max": 1207.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 72.14681091115045,
+            "min": 807.0,
+            "25%": 950.75,
+            "50%": 999.0,
+            "75%": 1048.0,
+            "max": 1199.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 73.36001215080005,
+            "min": 807.0,
+            "25%": 950.0,
+            "50%": 999.0,
+            "75%": 1049.0,
+            "max": 1208.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 74.17527852248197,
+            "min": 807.0,
+            "25%": 948.75,
+            "50%": 1000.5,
+            "75%": 1052.0,
+            "max": 1227.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 76.56731095064279,
+            "min": 789.0,
+            "25%": 945.25,
+            "50%": 1001.0,
+            "75%": 1052.0,
+            "max": 1227.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 77.44900707817234,
+            "min": 781.0,
+            "25%": 947.0,
+            "50%": 1003.0,
+            "75%": 1053.25,
+            "max": 1218.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 77.7414655826727,
+            "min": 781.0,
+            "25%": 943.0,
+            "50%": 1001.5,
+            "75%": 1055.0,
+            "max": 1215.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 77.9023333867105,
+            "min": 781.0,
+            "25%": 946.0,
+            "50%": 1002.0,
+            "75%": 1054.25,
+            "max": 1230.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 78.26316019998795,
+            "min": 781.0,
+            "25%": 944.75,
+            "50%": 1000.5,
+            "75%": 1054.0,
+            "max": 1230.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 79.63398233345215,
+            "min": 788.0,
+            "25%": 942.0,
+            "50%": 999.0,
+            "75%": 1056.0,
+            "max": 1255.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 79.90352399170256,
+            "min": 775.0,
+            "25%": 941.0,
+            "50%": 1000.0,
+            "75%": 1053.25,
+            "max": 1255.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 80.10183898774383,
+            "min": 759.0,
+            "25%": 942.75,
+            "50%": 1003.5,
+            "75%": 1056.0,
+            "max": 1255.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 80.68397491209286,
+            "min": 750.0,
+            "25%": 944.0,
+            "50%": 1002.0,
+            "75%": 1055.0,
+            "max": 1255.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 82.41274003113158,
+            "min": 727.0,
+            "25%": 945.0,
+            "50%": 1002.0,
+            "75%": 1054.5,
+            "max": 1255.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 82.84050397116373,
+            "min": 704.0,
+            "25%": 944.75,
+            "50%": 1002.5,
+            "75%": 1056.0,
+            "max": 1244.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 82.8968502148972,
+            "min": 731.0,
+            "25%": 946.75,
+            "50%": 1002.5,
+            "75%": 1052.25,
+            "max": 1259.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 82.83039144839888,
+            "min": 731.0,
+            "25%": 946.0,
+            "50%": 1004.0,
+            "75%": 1055.0,
+            "max": 1270.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 83.07451323660584,
+            "min": 731.0,
+            "25%": 947.0,
+            "50%": 1002.0,
+            "75%": 1055.5,
+            "max": 1270.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 83.82197950714952,
+            "min": 731.0,
+            "25%": 946.0,
+            "50%": 1003.0,
+            "75%": 1056.0,
+            "max": 1283.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 84.0349912805317,
+            "min": 760.0,
+            "25%": 946.0,
+            "50%": 1006.0,
+            "75%": 1053.25,
+            "max": 1283.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 85.80191102692145,
+            "min": 766.0,
+            "25%": 946.5,
+            "50%": 1003.0,
+            "75%": 1057.0,
+            "max": 1318.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 87.0164105868706,
+            "min": 761.0,
+            "25%": 946.0,
+            "50%": 1003.0,
+            "75%": 1056.0,
+            "max": 1318.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 87.3808378401311,
+            "min": 761.0,
+            "25%": 947.0,
+            "50%": 1000.5,
+            "75%": 1055.0,
+            "max": 1349.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 89.15717584136465,
+            "min": 754.0,
+            "25%": 946.75,
+            "50%": 999.0,
+            "75%": 1060.0,
+            "max": 1349.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 89.97102628703468,
+            "min": 725.0,
+            "25%": 944.5,
+            "50%": 1000.0,
+            "75%": 1061.5,
+            "max": 1340.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 90.67844927172415,
+            "min": 725.0,
+            "25%": 945.0,
+            "50%": 1001.0,
+            "75%": 1061.0,
+            "max": 1361.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 91.86777114281972,
+            "min": 725.0,
+            "25%": 943.0,
+            "50%": 1002.5,
+            "75%": 1060.0,
+            "max": 1361.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 92.57271420256436,
+            "min": 725.0,
+            "25%": 942.0,
+            "50%": 1002.5,
+            "75%": 1061.0,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 93.1148578558063,
+            "min": 740.0,
+            "25%": 941.0,
+            "50%": 1001.5,
+            "75%": 1061.0,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 93.94568421788375,
+            "min": 733.0,
+            "25%": 940.75,
+            "50%": 1004.0,
+            "75%": 1062.0,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 94.29355518325839,
+            "min": 710.0,
+            "25%": 937.0,
+            "50%": 1004.5,
+            "75%": 1060.25,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 94.72199593033316,
+            "min": 710.0,
+            "25%": 939.0,
+            "50%": 1006.0,
+            "75%": 1058.25,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 96.62480377941692,
+            "min": 709.0,
+            "25%": 940.0,
+            "50%": 1005.0,
+            "75%": 1057.5,
+            "max": 1395.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 97.7127605133243,
+            "min": 709.0,
+            "25%": 936.0,
+            "50%": 1005.5,
+            "75%": 1059.25,
+            "max": 1395.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 98.28038496127431,
+            "min": 709.0,
+            "25%": 936.75,
+            "50%": 1006.0,
+            "75%": 1061.5,
+            "max": 1395.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 99.60289892844435,
+            "min": 700.0,
+            "25%": 935.0,
+            "50%": 1005.0,
+            "75%": 1064.25,
+            "max": 1395.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 100.17969826211186,
+            "min": 700.0,
+            "25%": 932.0,
+            "50%": 1003.0,
+            "75%": 1066.0,
+            "max": 1404.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 100.41067975677905,
+            "min": 709.0,
+            "25%": 929.0,
+            "50%": 1004.5,
+            "75%": 1069.25,
+            "max": 1381.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 101.79129105118834,
+            "min": 690.0,
+            "25%": 931.75,
+            "50%": 1000.0,
+            "75%": 1069.0,
+            "max": 1360.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 102.0884523548497,
+            "min": 701.0,
+            "25%": 933.5,
+            "50%": 999.5,
+            "75%": 1070.25,
+            "max": 1360.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 102.77334635713136,
+            "min": 710.0,
+            "25%": 931.75,
+            "50%": 1000.0,
+            "75%": 1070.0,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 102.63556946907092,
+            "min": 705.0,
+            "25%": 931.75,
+            "50%": 1001.5,
+            "75%": 1071.0,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 103.23665829166721,
+            "min": 697.0,
+            "25%": 930.75,
+            "50%": 1003.5,
+            "75%": 1070.5,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 103.73173354904554,
+            "min": 694.0,
+            "25%": 928.0,
+            "50%": 1002.0,
+            "75%": 1072.0,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 103.59432207961143,
+            "min": 694.0,
+            "25%": 930.75,
+            "50%": 1002.0,
+            "75%": 1072.25,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 103.10657559954034,
+            "min": 679.0,
+            "25%": 932.0,
+            "50%": 1000.5,
+            "75%": 1072.25,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 102.75207042172875,
+            "min": 679.0,
+            "25%": 932.75,
+            "50%": 1000.5,
+            "75%": 1070.0,
+            "max": 1375.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 102.91709214562673,
+            "min": 679.0,
+            "25%": 934.0,
+            "50%": 999.0,
+            "75%": 1070.0,
+            "max": 1376.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 103.36364974291665,
+            "min": 664.0,
+            "25%": 931.75,
+            "50%": 996.0,
+            "75%": 1070.0,
+            "max": 1376.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 104.34102788548904,
+            "min": 639.0,
+            "25%": 932.0,
+            "50%": 999.5,
+            "75%": 1071.25,
+            "max": 1349.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 105.67580020751676,
+            "min": 628.0,
+            "25%": 927.5,
+            "50%": 1002.0,
+            "75%": 1075.0,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 105.91712266554211,
+            "min": 619.0,
+            "25%": 926.0,
+            "50%": 999.0,
+            "75%": 1073.25,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 106.26925382544678,
+            "min": 608.0,
+            "25%": 925.5,
+            "50%": 997.0,
+            "75%": 1075.25,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 106.75463974091443,
+            "min": 608.0,
+            "25%": 926.5,
+            "50%": 997.5,
+            "75%": 1075.0,
+            "max": 1352.0
+        },
+        {
+            "source": "session",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 106.95068441948182,
+            "min": 608.0,
+            "25%": 927.75,
+            "50%": 998.0,
+            "75%": 1077.25,
+            "max": 1333.0
+        },
+        {
+            "source": "epoch",
+            "count": 500.0,
+            "mean": 1000.0,
+            "std": 106.95068441948182,
+            "min": 608.0,
+            "25%": 927.75,
+            "50%": 998.0,
+            "75%": 1077.25,
+            "max": 1333.0
+        }
+    ],
+    "current_epoch": 1
+}
