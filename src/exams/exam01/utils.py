@@ -24,5 +24,19 @@ def display(target: Dict):
     print(json.dumps(target, indent=4))
 
 
-def flat_dictionary(target):
-    pass
+def flat_dictionary(input_dict, separator='.', prefix=''):
+    output_dict = {}
+    for key, value in input_dict.items():
+        if isinstance(value, dict) and value:
+            deeper = flat_dictionary(value, separator, prefix+key+separator)
+            output_dict.update({key2: val2 for key2, val2 in deeper.items()})
+        elif isinstance(value, list) and value:
+            for index, sublist in enumerate(value, start=0):
+                if isinstance(sublist, dict) and sublist:
+                    deeper = flat_dictionary(sublist, separator, prefix+key+separator+str(index)+separator)
+                    output_dict.update({key2: val2 for key2, val2 in deeper.items()})
+                else:
+                    output_dict[prefix+key+separator+str(index)] = value
+        else:
+            output_dict[prefix+key] = value
+    return output_dict
