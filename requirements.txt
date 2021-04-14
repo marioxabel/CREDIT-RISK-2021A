@@ -9,5 +9,6 @@ matplotlib
 numpy
 requests==2.25.1
 scikit-learn
+streamlit==0.80.0
 pandas
 pycodestyle==2.5.0

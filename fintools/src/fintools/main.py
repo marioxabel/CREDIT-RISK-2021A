@@ -2,6 +2,8 @@ import os
 import subprocess
 from typing import Optional
 
+from .utils import streamlit_runner
+
 
 class Main:
 
@@ -10,6 +12,10 @@ class Main:
         if name is None:
             name = "world"
         return f"Hello, {name}!"
+
+    @staticmethod
+    def streamlit(app_file: str):
+        streamlit_runner(app_file=app_file)
 
     @staticmethod
     def console(disable_winpty: bool = False):
