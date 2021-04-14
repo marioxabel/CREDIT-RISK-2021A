@@ -1,6 +1,6 @@
 import fire
 
-from fintools.main import Main
+from .main import Main
 
 
 if __name__ == "__main__":
